@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+    font-family: monospace;
+}
+
+#contactheader{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+#username{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.email-link,
+.discord-link {
+  font-size: 20px;
+  text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+
+.email{
+    color: #700000;
+    font-size: 20px;
+}
+.email-link:link {
+    color: #700000;
+  }
+  
+  .email-link:visited {
+    color: #ffffff;
+  }
+  
+  .email-link:hover {
+    color: #ffffff;
+  }
+  
+  .email-link:active {
+    color: blue;
+  }
+  
+  .discord-link:link {
+    color: #700000;
+  }
+  
+  .discord-link:visited {
+    color: #700000;
+  }
+  
+  .discord-link:hover {
+    color: #ffffff;
+  }
+  
+  .discord-link:active {
+    color: blue;
+  }
+  
+  
+
+
+/* Lists */
+ul {
+    list-style-type: none;
+  }
+
+  li::before {
+    content: "•";
+    color: rgb(255, 255, 255); 
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+
+  #backbutton {
+    position:fixed;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #700000;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 25px;
+    border-radius: 30px;
+    font-weight: 550;
+  }
+  
+  #backbutton:hover {
+    background-color: #3d0000;
+    
+  }
+  
+   

@@ -1,0 +1,53 @@
+<!-- ai sims league -
+<div class="dropdown">
+  <button class="dropbtn">AI Sims
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="AI/ai sims.html">AI Sims Main Page</a>
+      <a href="AI/aistats.html">Stats</a>
+      <a href="AI/aidrivers.html">AI Drivers</a>
+      <a href="AI/aischedule.html">AI Schedule</a>
+    </div>
+  </div>
+
+  <!--Challenger League --
+  <div class="dropdown">
+    <button class="dropbtn">Challenger League
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="Challenger League/challenger league f2.html">Challenger League Main Page</a>
+        <a href="Challenger League/CLstats.html">Stats</a>
+        <a href="Challenger League/CLdrivers.html">CL Drivers</a>
+        <a href="Challenger League/clschedule.html">AI Schedule</a>
+      </div>
+    </div>
+
+
+<!-- indycar league --
+  <div class="dropdown">
+    <button class="dropbtn">IndyCar
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="Indycar/il.html">IndyCar Main Page</a>
+        <a href="Indycar/ilstats.html">Stats</a>
+        <a href="Indycar/ildrivers.html">IndyCar Drivers</a>
+        <a href="Indycar/ilschedule.html">IndyCar Schedule</a>
+      </div>
+    </div>
+
+<!-- Ultimate League --
+  <div class="dropdown">
+    <button class="dropbtn">Ultimate League
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="Ultimate League/ul.html">Ultimate League Main Page</a>
+        <a href="Ultimate League/ulstats.html">Stats</a>
+        <a href="Ultimate League/uldrivers.html">UL Drivers</a>
+        <a href="Ultimate League/ulschedule.html">UL Schedule</a>
+      </div>
+    </div>
+  -->
